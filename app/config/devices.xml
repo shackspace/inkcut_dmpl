@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <devices>
 	<device>
+		<brand>Refine</brand>
+		<model width="121.92" length="0">MH721</model>
+		<interface type="serial" baudrate="9600" bytesize="8" parity="N" stopbits="1" xonxoff="0" dsrdtr="1" rtscts="0"/>
+	</device>
+	<device>
 		<brand>US Cutter</brand>
 		<model width="121.92" length="0">MH1351</model>
 		<interface type="serial" baudrate="9600" />
